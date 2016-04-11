@@ -1,4 +1,4 @@
-# triangletracker
+# intro-triangletracker
 
 #### Created By
 Isabelle George
@@ -9,9 +9,6 @@ This is a webpage designed to return whether the user input measurements forms a
 #### Setup/Installation Requirements
 
 * run $git clone https://github.com/10igeorge/triangle-tracker.git
-
-#### Home Page Landing
-https://10igeorge.github.io/triangle-tracker.git
 
 ##### License
 
